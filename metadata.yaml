@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37754'
     url: http://www.gutenberg.org/2009/agents/37754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35565#The-Mormons-and-the-Theatreor-The-History-of-Theatricals-in-Utah
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2011-03-12'
 gutenberg_type: Text
